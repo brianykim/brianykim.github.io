@@ -1,0 +1,17 @@
+interesting interview questions
+
+hilbert curve
+alien alphabet
+
+merge sort counting inverted pairs in list
+
+building a search index
+  parallelizing / thread safe / persistence on disk
+
+fibonacci encoding
+
+longest chain of character removal from string
+  so that it still exists in a list of words (given as vector)
+  optimizing runtime...
+
+optimization problem that was actually NP hard
